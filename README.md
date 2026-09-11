@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python, Sql, Excel, PowerBi**
 
-- 💬 Ask me about **My Project**
+- 💬 Ask me about **My Project's**
 
 - 📫 How to reach me **skabdulfamim2345@gmail.com**
 
