@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skabdulfamim20-stack&show_icons=true&locale=en" alt="skabdulfamim20-stack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skabdulfamim20-stack&" alt="skabdulfamim20-stack" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=skabdulfamim20-stack" alt="skabdulfamim20-stack" /></p>
